@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777140041019",
+    "project_id": "fir-auth-5fa5d",
+    "storage_bucket": "fir-auth-5fa5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777140041019:android:d6a818f2fb52f8d007b31e",
+        "android_client_info": {
+          "package_name": "com.example.donalimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJKZwUGPejxFVpDWRY1AoR6aNGqfIsDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
